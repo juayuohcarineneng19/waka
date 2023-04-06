@@ -1,4 +1,5 @@
 import React from 'react'
+import Destination from '../Components/Destination'
 import Hero from '../Components/Hero'
 import Navbar from '../Components/Navbar'
 
@@ -15,6 +16,7 @@ function Home() {
       url = "/"
       btnClass = "show"
       />
+      <Destination/>
     </div>
   )
 }
