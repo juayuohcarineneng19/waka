@@ -1,5 +1,6 @@
 import React from 'react'
 import Destination from '../Components/Destination'
+import Footer from '../Components/Footer'
 import Hero from '../Components/Hero'
 import Navbar from '../Components/Navbar'
 import Trip from '../Components/Trip'
@@ -19,6 +20,7 @@ function Home() {
       />
       <Destination/>
       <Trip/>
+      <Footer/>
     </div>
   )
 }
