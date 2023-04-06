@@ -1,0 +1,19 @@
+.aboutContainer{
+    text-align: center;
+    margin: 4rem 6rem;
+    text-align: start;
+}
+
+.aboutContainer h1{
+    padding-bottom: 1rem;
+}
+
+.aboutContainer p{
+    padding-bottom: 2rem;
+}
+
+@media (max-width:950px) {
+    .aboutContainer{
+        margin: 4rem 2rem;
+    }
+}
