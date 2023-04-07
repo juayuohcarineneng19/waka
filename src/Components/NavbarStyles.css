@@ -98,9 +98,11 @@ button:hover{
     }
     .nav-links{
         display: block;
-        width: 100%;
+        width: 80%;
         font-size: 1.2rem;
         padding: 2rem 0;
+        color: red;
+        margin-left: 20px;
     }
     .nav-links:hover{
         background: #01959a;
@@ -122,6 +124,7 @@ button:hover{
         font-size: 1.2rem;
         font-weight: 700;
         letter-spacing: 2px;
+    
     }
     
 
