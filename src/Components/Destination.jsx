@@ -32,13 +32,13 @@ function Destination() {
 
 <DestinationData
         className = "secondDesc"
-        heading = " Bafousam Resorts, Batanga"
+        heading = " Bafousam Resorts, "
         text = "Lorem ipsum dolor sit amet consectetur adipisicing
         elit. Quibusdam minima molestiae tempore delectus
-        , earum explicabo quisquam ullam inventore iste m
+        , earum explicabo quisquam  lorem ullam inventore iste m
         inus doloribus consequuntur illum. Nisi pariatur
          quisquam dolor provident possimus. Eos exercitationem, reici
-         endis possimus deserunt magnam dolorem quo quis fuga saepe nostrum 
+         endis possimus deserunt magnam dolorem lorem  quo quis fuga saepe nostrum 
          eaque excepturi aliquid minima non, quia dicta laudantium labore modi,
           numquam molestiae commodi dignissimos officia libero ad. Officiis animi
            harum nulla dolores cumque, fugiat adipisci voluptates debitis veritatis.
