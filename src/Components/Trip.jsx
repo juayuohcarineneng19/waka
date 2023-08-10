@@ -4,9 +4,6 @@ import TripData from './TripData'
 import Trip1 from "../assets/london.jpg"
 import Trip2 from "../assets/london1.jpg"
 import Trip3 from "../assets/paris.jpg"
-// import Trip4 from "../assets/usa.jpg"
-// import Trip5 from "../assets/usa1.jpg"
-// import Trip6 from "../assets/outside.avif"
 
 function Trip() {
   return (
@@ -19,7 +16,7 @@ function Trip() {
             image ={Trip1}
             heading = "Trip in Indonesia"
             text = " Lorem, ipsum dolor sit amet consectetur
-            adipisicing elit. Laboriosam, aspernatur reprehend
+            adipisicing elit.Laboriosam, aspernatur reprehend
             erit. Expedita, tempora nesciunt. Quos alias 
             error maxime maiores nihil necessitatibus 
            nobis, excepturi provident totam!"

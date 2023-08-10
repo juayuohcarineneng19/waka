@@ -13,7 +13,7 @@ function Destination() {
 
         <DestinationData
         className = "firstDesc"
-        heading = " Taal Volcano, Batangas"
+        heading = " Seme Beach, Limbe"
         text = "Lorem ipsum dolor sit amet consectetur adipisicing
         elit. Quibusdam minima molestiae tempore delectus
         , earum explicabo quisquam ullam inventore iste m
@@ -32,7 +32,7 @@ function Destination() {
 
 <DestinationData
         className = "secondDesc"
-        heading = " Bafousam Resorts, "
+        heading = " Kribi,Douala "
         text = "Lorem ipsum dolor sit amet consectetur adipisicing
         elit. Quibusdam minima molestiae tempore delectus
         , earum explicabo quisquam  lorem ullam inventore iste m
