@@ -1,5 +1,5 @@
 import React from 'react'
-import styles from "./HeroStyles.css"
+import Styles from "./HeroStyles.css"
 
 function Hero(props) {
   return (

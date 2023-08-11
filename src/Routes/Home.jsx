@@ -11,9 +11,9 @@ function Home() {
       <Navbar/> 
       <Hero
       cName = "hero"
-      heroImg = "https://images.unsplash.com/photo-1664027837004-20b2b56ebe82?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
-      title = "Your Journey Your Story"
-      text = "Choose Your Favorite Destination"
+      heroImg = "https://images.unsplash.com/photo-1618245318763-a15156d6b23c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fEJlYWNoJTIwcGljdHVyZXN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
+      title = "KAM WE WAKA SMALL C PLACE DEM"
+      text = "Choose Your Favorite Beach"
       buttonText = "Travel Plan"
       url = "/"
       btnClass = "show"
